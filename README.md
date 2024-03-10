@@ -26,5 +26,5 @@ After calling it - It will return **string** of your value (Example: 1000 -> 1K)
 2. Move file to the project
 3. Import it:
    ```javascript
-   import * as LNS from "./LongNumbersReducer.js"
+   import * as LNR from "./LongNumbersReducer.js"
    ```
