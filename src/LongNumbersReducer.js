@@ -1,4 +1,4 @@
-export function returnShortedValue(value){
+export function returnReducedValue(value){
     if(value >= 1000000000000000000000000000000000 && value < 1000000000000000000000000000000000000){
         let temp = Math.trunc(value / 1000000000000000000000000000000000);
         return temp + "D";
